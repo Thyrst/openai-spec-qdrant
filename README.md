@@ -1,0 +1,1 @@
+Scripts for dev.to article: [Serverless LLM Chatbot Using Your Custom Data - built with Langtail and Qdrant](https://dev.to/thyrst/serverless-llm-chatbot-using-your-custom-data-built-with-langtail-and-qdrant-25mh)
